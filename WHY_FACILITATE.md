@@ -1,8 +1,8 @@
-# Why facilitate CF Onboarding?
+# Why facilitate?
 
 ## Objective
-* Collect ideas on how CF Onboarding can bring value to facilitators. 
-* These ideas may be helpful when talking to new or prospective facilitators. 
+* Collect ideas on how facilitating CF Onboarding (or similar trainings) can bring value to facilitators. 
+* The intention is to aggregate ideas that may be helpful when talking to new or prospective facilitators. 
 
 ### What are possible reasons for getting involved?
 
@@ -13,6 +13,6 @@
 * [ Your reason here ... ]
 
 ### Perspectives on facilitating
-* This repository is intended serve as a guide (not a formula) for your experience as a facilitator.  This on-boarding process is yours to iterate on.
+* This repository is intended serve as a guide (not a formula) for your experience as a facilitator.  This onboarding process is yours to iterate on.
 * Have a new idea?  You can bring it up on Slack or a meeting to start a discussion.  Or conduct a lean experiment to test your idea out.
 * [ Your perspective here ... ]
